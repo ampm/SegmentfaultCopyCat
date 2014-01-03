@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
-@class UMNavigationController;
 
+@class YNSlideNavViewController;
+@class UMNavigationCon;
 @interface YNAppDelegate : UIResponder <UIApplicationDelegate>
+
+-(void)initSlideNavigator;
 
 @property (strong, nonatomic) UIWindow *window;
 
