@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AC96A53DF21EE67D01B26B63"
+               BuildableName = "SegmentfaultCopycat.app"
+               BlueprintName = "SegmentfaultCopycat"
+               ReferencedContainer = "container:SegmentfaultCopycat.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AC96A53DF21EE67D01B26B63"
+            BuildableName = "SegmentfaultCopycat.app"
+            BlueprintName = "SegmentfaultCopycat"
+            ReferencedContainer = "container:SegmentfaultCopycat.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
