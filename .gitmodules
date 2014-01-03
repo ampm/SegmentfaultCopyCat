@@ -1,0 +1,12 @@
+[submodule "SegmentfaultCopycat/Support/SlimeRefresh"]
+	path = SegmentfaultCopycat/Support/SlimeRefresh
+	url = https://github.com/dbsGen/SlimeRefresh.git
+[submodule "SegmentfaultCopycat/Support/AFNetworking"]
+	path = SegmentfaultCopycat/Support/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
+[submodule "SegmentfaultCopycat/Support/urlmanager"]
+	path = SegmentfaultCopycat/Support/urlmanager
+	url = https://github.com/gaosboy/urlmanager.git
+[submodule "SegmentfaultCopycat/Support/JSONKit"]
+	path = SegmentfaultCopycat/Support/JSONKit
+	url = https://github.com/johnezang/JSONKit.git
