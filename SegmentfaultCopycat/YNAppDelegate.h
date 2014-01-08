@@ -8,16 +8,13 @@
 
 #import <UIKit/UIKit.h>
 @class UMNavigationController;
+@class YNSlideNavViewController;
 
 @interface YNAppDelegate : UIResponder <UIApplicationDelegate>
-
+-(void)initSlideNavigator;
 @property (strong, nonatomic) UIWindow *window;
+@property(nonatomic) YNSlideNavViewController *navigator;
+@property(nonatomic, strong) UMNavigationController *newestNavigationController;
 
-@property (readonly, strong, nonatomic) NSManagedObjectContext *managedObjectContext;
-@property (readonly, strong, nonatomic) NSManagedObjectModel *managedObjectModel;
-@property (readonly, strong, nonatomic) NSPersistentStoreCoordinator *persistentStoreCoordinator;
-
-- (void)saveContext;
-- (NSURL *)applicationDocumentsDirectory;
 
 @end
